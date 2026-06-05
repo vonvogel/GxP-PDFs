@@ -36,3 +36,35 @@ any downstream match data in `GMPdash` / `GMPdashboardPDF`.
 
 - [GMPdash](https://github.com/vonvogel/GMPdash) — Self-contained regulatory dashboard
 - [GMPdashboardPDF](https://github.com/vonvogel/GMPdashboardPDF) — Interactive PDF dashboard with highlights
+
+## License & Attribution
+
+EudraLex Volume 4 is published by the European Commission and, under the
+[Commission Decision of 12 December 2011 on the reuse of Commission documents](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833),
+is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+### Attribution
+
+Contains public sector information from EudraLex Volume 4 (Good Manufacturing
+Practice guidelines), © European Union, 1998–2025. Source: European Commission,
+[Public Health website](https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-4_en).
+
+### Modifications
+
+The original PDFs have been renamed to a canonical naming convention for
+automated tooling and may have been re-hosted in this repository.
+
+### Endorsement Disclaimer
+
+This repository is an unofficial mirror. The European Union emblem, the
+European Commission logo, and the EMA logo are not used in a way that implies
+endorsement, sponsorship, or affiliation with this project.
+
+### Legal Disclaimer
+
+This repository is an unofficial copy provided for convenience and
+informational purposes only. It may not reflect the most recent regulatory
+updates. The only authentic and legally binding versions of these documents
+are those published in the Official Journal of the European Union or hosted on
+the official [European Commission EudraLex portal](https://health.ec.europa.eu/medicinal-products/eudralex_en).
